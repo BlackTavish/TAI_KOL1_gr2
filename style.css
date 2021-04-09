@@ -7,8 +7,22 @@ body {
     font-size: 1.1em; /*12px*/
     padding: 40px;
 }
-.box {
-    width: 20px;
-    height: 20px;
+#myDiv{
+    width: 200px;
+    height: 200px;
     background-color: green;
+}
+ul li {
+    display: inline;
+    padding: 2px;
+}
+td{
+    border: 1px solid white;
+}
+table{
+    display: none;
+    
+}
+.center{
+    text-align: center;
 }
